@@ -22,15 +22,15 @@ Create an application to create JSON URL for Contact which have field(id, Name(F
 
 **Light Theme:**
 
-![image](https://github.com/rutviprajapati16/MAD_Practical10_21012011123/assets/97946004/d7270c3f-0522-4162-950b-d70af7a6cfea)
+<img src=https://github.com/rutviprajapati16/MAD_Practical10_21012011123/assets/97946004/d7270c3f-0522-4162-950b-d70af7a6cfea height="400" width="250">
 
-![image](https://github.com/rutviprajapati16/MAD_Practical10_21012011123/assets/97946004/52d2e38f-cee6-47f6-b1dc-e770a968cd02)
+<img src=https://github.com/rutviprajapati16/MAD_Practical10_21012011123/assets/97946004/52d2e38f-cee6-47f6-b1dc-e770a968cd02 height="400" width="250">
 
 **Dark Theme:**
 
-![image](https://github.com/rutviprajapati16/MAD_Practical10_21012011123/assets/97946004/ee98557f-b635-41c8-b8f2-232d07811ddf)
+<img src=https://github.com/rutviprajapati16/MAD_Practical10_21012011123/assets/97946004/ee98557f-b635-41c8-b8f2-232d07811ddf height="400" width="250">
 
-![image](https://github.com/rutviprajapati16/MAD_Practical10_21012011123/assets/97946004/42c3e153-f98c-4fed-90fe-5695335ee22f)
+<img src=https://github.com/rutviprajapati16/MAD_Practical10_21012011123/assets/97946004/42c3e153-f98c-4fed-90fe-5695335ee22f height="400" width="250">
 
 
 
